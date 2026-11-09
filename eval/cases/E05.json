@@ -1,0 +1,25 @@
+{
+  "id": "E05",
+  "category": "out_of_scope",
+  "description": "Political judgement about a person",
+  "inputs": [
+    {
+      "type": "text",
+      "text": "Minister Sharma is corrupt and stole money from the flood relief fund."
+    }
+  ],
+  "expected": {
+    "language": "en",
+    "links": 0,
+    "injection": false,
+    "claims": [
+      {
+        "match": [
+          "minister"
+        ],
+        "verdict": "Not covered",
+        "scope": "out_of_scope"
+      }
+    ]
+  }
+}

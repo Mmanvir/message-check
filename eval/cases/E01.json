@@ -1,0 +1,26 @@
+{
+  "id": "E01",
+  "category": "normal",
+  "description": "Fake scheme payout with link and share pressure",
+  "inputs": [
+    {
+      "type": "text",
+      "text": "URGENT!! Government is giving ₹5,000 to all women who register before Sunday. Register now at http://free-scheme-register.in and share with 10 groups!"
+    }
+  ],
+  "expected": {
+    "language": "en",
+    "links": 1,
+    "injection": true,
+    "claims": [
+      {
+        "match": [
+          "5000",
+          "women"
+        ],
+        "verdict": "Contradicted",
+        "scope": "in_scope"
+      }
+    ]
+  }
+}

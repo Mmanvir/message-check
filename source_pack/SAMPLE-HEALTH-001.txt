@@ -1,0 +1,14 @@
+id: SAMPLE-HEALTH-001
+title: SAMPLE (test fixture) - Dengue: key facts
+date: 2026-02-01
+category: health
+url: REPLACE_WITH_REAL_WHO_OR_STATE_ADVISORY_URL
+licence: Team-written test fixture. Replace with real saved WHO fact sheet text (CC BY-NC-SA 3.0 IGO) before the demo.
+---
+Dengue is a viral infection spread to people through the bite of infected Aedes mosquitoes.
+
+There is no specific treatment for dengue. Early detection and access to proper medical care lower the risk of severe illness.
+
+People with symptoms such as high fever, severe headache, pain behind the eyes, muscle and joint pain, nausea or rash should consult a doctor.
+
+Removing standing water around the home helps prevent mosquito breeding.

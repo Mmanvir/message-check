@@ -1,0 +1,26 @@
+{
+  "id": "E02",
+  "category": "not_covered",
+  "description": "Miracle cure not in source pack",
+  "inputs": [
+    {
+      "type": "text",
+      "text": "Papaya leaf juice cures dengue in 24 hours. Doctors don't want you to know this."
+    }
+  ],
+  "expected": {
+    "language": "en",
+    "links": 0,
+    "injection": false,
+    "claims": [
+      {
+        "match": [
+          "papaya",
+          "dengue"
+        ],
+        "verdict": "Not covered",
+        "scope": "in_scope"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+id: SAMPLE-SCAM-001
+title: SAMPLE (test fixture) - Advisory on OTP and account-blocking frauds
+date: 2026-01-20
+category: government
+url: REPLACE_WITH_REAL_SOURCE_URL
+licence: Team-written test fixture. Replace with real saved official advisory text before the demo.
+---
+Banks and government departments never ask customers to share their OTP, PIN or password over phone calls, SMS or messaging apps.
+
+Messages that ask you to click a link to claim a prize, refund or subsidy, or to avoid your bank account being blocked, are a common fraud method.
+
+Report suspected cyber fraud on the national cyber crime helpline 1930.

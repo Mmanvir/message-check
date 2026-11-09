@@ -1,0 +1,26 @@
+{
+  "id": "E04",
+  "category": "normal_hindi",
+  "description": "Hindi version of the scheme forward",
+  "inputs": [
+    {
+      "type": "text",
+      "text": "सरकार रविवार से पहले रजिस्टर करने वाली सभी महिलाओं को ₹5,000 दे रही है।"
+    }
+  ],
+  "expected": {
+    "language": "hi",
+    "links": 0,
+    "injection": false,
+    "claims": [
+      {
+        "match": [
+          "5000",
+          "women"
+        ],
+        "verdict": "Contradicted",
+        "scope": "in_scope"
+      }
+    ]
+  }
+}

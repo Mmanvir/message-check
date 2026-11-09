@@ -1,0 +1,12 @@
+id: SAMPLE-GOV-001
+title: SAMPLE (fictional test fixture) - Clarification on claimed Rs 5,000 registration scheme for women
+date: 2026-03-14
+category: government
+url: REPLACE_WITH_REAL_SOURCE_URL
+licence: Team-written test fixture. Replace with real saved PIB Fact Check / press release text before the demo.
+---
+A message circulating on social media claims that the government is giving ₹5,000 to all women who register on a website before Sunday.
+
+No such scheme has been announced by the Government of India. The website mentioned in the message is not an official government website.
+
+Citizens are advised not to share personal or bank details on such websites and to rely only on official government sources for information about schemes.
